@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Kestrel Luxury" inherits="Kestrel">
+ <gfx size="125" sx="10" sy="10">kestrel_luxury</gfx>
+ <rarity>2</rarity>
+ <price>8700000</price>
+ <description>The Kestrel Luxury edition might look like a Kestrel, but a large amount of the hull has been repurposed for luxury travel and accommodation. Due to the complexities of installing the necessary amenities, weapon bays have had to been reduced in size along with other restrictions resulting in fewer customization possibilities. To make up for the loss of utility, the Luxury edition has some very carefully engineered hull modifications that increase the overall manoeuverability along with a self-repair system capable of slowly regenerating damaged armour. Although some would say that the Gawain is just as good for luxury travel, there are others claiming that such talk is pure jealousy.</description>
+ <health>
+  <armour>2000</armour>
+  <armour_regen>1</armour_regen>
+ </health>
+ <slots>
+  <weapon size="medium" x="-23" y="-15" h="5" />
+  <weapon size="medium" x="-23" y="15" h="5" />
+  <weapon size="medium" x="44" y="0" h="0" />
+  <weapon size="medium" x="-6" y="0" h="12" />
+  <weapon size="small" x="-24" y="-8" h="8" />
+  <weapon size="small" x="-24" y="8" h="8" />
+  <utility size="large" prop="systems">Unicorp PT-440 Core System</utility>
+  <utility size="large" prop="accessory" />
+  <utility size="large" />
+  <utility size="medium" />
+  <utility size="medium" />
+  <utility size="small" />
+  <structure size="large" prop="engines">Krain Remige Engine</structure>
+  <structure size="medium" prop="hull">Unicorp D-38 Medium Plating</structure>
+  <structure size="large" />
+  <structure size="medium" />
+  <structure size="small" />
+ </slots>
+ <stats>
+  <speed_mod>10</speed_mod>
+  <turn_mod>5</turn_mod>
+  <armour_mod>-20</armour_mod>
+  <absorb>10</absorb>
+  <engine_limit_rel>-15</engine_limit_rel>
+  <cargo_mod>-10</cargo_mod>
+ </stats>
+</ship>
