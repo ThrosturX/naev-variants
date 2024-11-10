@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Hawking Juggernaut" inherits="Hawking">
+ <rarity>2</rarity>
+ <price>7800000</price>
+ <fabricator>Nexus Shipyards</fabricator>
+  <description>The Hawking Juggernaut is a Nexus Shipyards custom build that sacrifices shield capacity for increased shield responsiveness and an auxiliary armor repair system. The advanced defensive systems are quite bulky, resulting in slightly less usable space in the cargo bay and somewhat decreased manoeuverability.</description>
+ <health>
+  <armour>1400</armour>
+  <armour_regen>5</armour_regen>
+ </health>
+ <stats>
+   <shield_mod>-50</shield_mod>
+   <shielddown_mod>-45</shielddown_mod>
+   <turn_mod>-5</turn_mod>
+   <cargo_mod>-10</cargo_mod>
+ </stats>
+</ship>
