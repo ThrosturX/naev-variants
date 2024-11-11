@@ -15,7 +15,7 @@
  </characteristics>
  <stats>
   <shield_mod>-45</shield_mod>
-  <shielddown_mod>-60</shielddown_mod>
+  <shielddown_mod>-55</shielddown_mod>
   <turn_mod>-5</turn_mod>
   <cargo_mod>-30</cargo_mod>
  </stats>
