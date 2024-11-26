@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<unidiff name="goddard_eggshell">
+<unidiff name="goddard_hardshell">
  <spob name="Zhiru">
   <tech_add>Goddard Hardshell</tech_add>
  </spob>

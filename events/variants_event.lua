@@ -15,5 +15,5 @@ end
 function load ()
    diff.apply("hawking_singularity") 
    diff.apply("kestrel_starliner") 
-   diff.apply("goddard_eggshell") 
+   diff.apply("goddard_hardshell") 
 end

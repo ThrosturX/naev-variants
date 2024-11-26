@@ -1,9 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ship name="Goddard Hardshell" inherits="Goddard">
-    <gfx size="125" sx="12" sy="12">goddard_egshell</gfx>
+    <gfx size="125" sx="12" sy="12">goddard_eggshell</gfx>
     <rarity>2</rarity>
     <price>9500000</price>
-    <description>The 'Hardshell' variant reworks the shield systems to build the shielding into the armor plates themselves. Although this drastically decreases the amount of shielding provided, it also drastically reduces the shield response time.</description>
+    <description>The 'Hardshell' variant reworks the shield systems to build the shielding into the armor plates themselves. Although this drastically decreases the amount of shielding provided, it also drastically reduces the shield response time. The design prevents any sort of bays from being installed as some of the space that would have been used to house them has been dedicated to further reinforce the structural integrity of the ship.</description>
+ <health>
+  <armour>2000</armour>
+  <armour_regen>2</armour_regen>
+ </health>
  <slots>
   <weapon size="large" x="-10" y="-13" h="2" />
   <weapon size="large" x="-10" y="13" h="2" />
@@ -31,7 +35,8 @@
      <armour_mod>10</armour_mod>
      <energy_mod>10</energy_mod>
      <shielddown_mod>-90</shielddown_mod>
-     <shield_mod>-90</shield_mod>
+     <shield_mod>-75</shield_mod>
+     <armour_regen_mod>60</armour_regen_mod>
  </stats>
 </ship>
 
