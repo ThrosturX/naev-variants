@@ -5,7 +5,7 @@
     <price>9500000</price>
     <description>The 'Hardshell' variant reworks the shield systems to build the shielding into the armor plates themselves. Although this drastically decreases the amount of shielding provided, it also drastically reduces the shield response time. The design prevents any sort of bays from being installed as some of the space that would have been used to house them has been dedicated to further reinforce the structural integrity of the ship.</description>
  <health>
-  <armour>2000</armour>
+  <armour>1800</armour>
   <armour_regen>2</armour_regen>
  </health>
  <slots>
@@ -36,7 +36,7 @@
      <energy_mod>10</energy_mod>
      <shielddown_mod>-90</shielddown_mod>
      <shield_mod>-75</shield_mod>
-     <armour_regen_mod>60</armour_regen_mod>
+     <armour_regen_mod>40</armour_regen_mod>
  </stats>
 </ship>
 
