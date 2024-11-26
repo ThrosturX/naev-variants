@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ship name="Hawking Juggernaut" inherits="Hawking">
+<ship name="Hawking Singularity" inherits="Hawking">
  <gfx size="139" sx="12" sy="12">hawking_juggernaut</gfx>
  <rarity>2</rarity>
  <price>7800000</price>
  <fabricator>Nexus Shipyards</fabricator>
-  <description>The Hawking Juggernaut is a Nexus Shipyards custom build that sacrifices shield capacity for increased shield responsiveness and an auxiliary armor repair system. The advanced defensive systems are quite bulky, resulting in slightly less usable space in the cargo bay and somewhat decreased manoeuverability.</description>
+  <description>The Hawking Singularity is a Nexus Shipyards custom build that sacrifices shield capacity for increased shield responsiveness and an auxiliary armour repair system. The advanced defensive systems are quite bulky, resulting in slightly less usable space in the cargo bay and somewhat decreased manoeuverability.</description>
  <health>
   <armour>1400</armour>
   <armour_regen>5</armour_regen>

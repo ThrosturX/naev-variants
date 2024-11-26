@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unidiff name="kestrel_starliner">
+ <spob name="Shangris Station">
+  <tech_add>Kestrel Starliner</tech_add>
+ </spob>
+</unidiff>

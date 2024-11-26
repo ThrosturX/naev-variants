@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ship name="Goddard Hardshell" inherits="Goddard">
+    <gfx size="125" sx="12" sy="12">goddard_egshell</gfx>
+    <rarity>2</rarity>
+    <price>9500000</price>
+    <description>The 'Hardshell' variant reworks the shield systems to build the shielding into the armor plates themselves. Although this drastically decreases the amount of shielding provided, it also drastically reduces the shield response time.</description>
+ <slots>
+  <weapon size="large" x="-10" y="-13" h="2" />
+  <weapon size="large" x="-10" y="13" h="2" />
+  <weapon size="large" x="-15" y="-25" h="3" />
+  <weapon size="large" x="-15" y="25" h="3" />
+  <weapon size="large" x="0" y="0" h="5" />
+  <weapon size="large" x="-20" y="0" h="5" />
+  <utility size="large" prop="systems">Unicorp PT-1750 Core System</utility>
+  <utility size="large" prop="accessory" />
+  <utility size="large" />
+  <utility size="large" />
+  <utility size="large" />
+  <utility size="large" />
+  <utility size="large" />
+  <structure size="large" prop="engines">Unicorp Eagle 6500 Engine</structure>
+  <structure size="large" prop="hull">Unicorp D-72 Heavy Plating</structure>
+  <structure size="large" />
+  <structure size="large" />
+  <structure size="large" />
+  <structure size="large" />
+  <structure size="large" />
+ </slots>
+ <stats>
+     <speed_mod>-10</speed_mod>
+     <armour_mod>10</armour_mod>
+     <energy_mod>10</energy_mod>
+     <shielddown_mod>-90</shielddown_mod>
+     <shield_mod>-90</shield_mod>
+ </stats>
+</ship>
+

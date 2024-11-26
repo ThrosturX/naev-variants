@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unidiff name="hawking_singularity">
+ <spob name="Nexus Shipyards HQ">
+  <tech_add>Hawking Singularity</tech_add>
+ </spob>
+</unidiff>
