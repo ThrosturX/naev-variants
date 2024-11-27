@@ -9,12 +9,9 @@
 
 
 function create ()
-   hook.load("load")
-end
-
-function load ()
    diff.apply("goddard_merchantman") 
    diff.apply("goddard_hardshell") 
    diff.apply("hawking_singularity") 
    diff.apply("kestrel_starliner") 
+   hook.load("load")
 end

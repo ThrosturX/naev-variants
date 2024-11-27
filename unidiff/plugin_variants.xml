@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unidiff name="plugin_variants">
+ <spob name="Zhiru">
+  <tech_add>Goddard Hardshell</tech_add>
+ </spob>
+ <spob name="Mining Vrata Guildhouse">
+  <tech_add>Goddard Merchantman</tech_add>
+ </spob>
+ <spob name="Minerva Station">
+  <tech_add>Goddard Merchantman</tech_add>
+ </spob>
+ <spob name="Nexus Shipyards HQ">
+  <tech_add>Hawking Singularity</tech_add>
+ </spob>
+ <spob name="Shangris Station">
+  <tech_add>Kestrel Starliner</tech_add>
+ </spob>
+</unidiff>
