@@ -36,7 +36,6 @@ While contemplating a replacement, the captain realized that she encountered non
  </slots>
  <stats>
      <speed_mod>-10</speed_mod>
-     <cargo_inertia>-20</cargo_inertia>
      <armour_mod>5</armour_mod>
      <energy_mod>10</energy_mod>
  </stats>
