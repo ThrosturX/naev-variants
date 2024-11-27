@@ -13,7 +13,8 @@ function create ()
 end
 
 function load ()
+   diff.apply("goddard_merchantman") 
+   diff.apply("goddard_hardshell") 
    diff.apply("hawking_singularity") 
    diff.apply("kestrel_starliner") 
-   diff.apply("goddard_hardshell") 
 end
