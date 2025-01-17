@@ -3,12 +3,6 @@
  <spob name="Zhiru">
   <tech_add>Goddard Hardshell</tech_add>
  </spob>
- <spob name="Mining Vrata Guildhouse">
-  <tech_add>Goddard Merchantman</tech_add>
- </spob>
- <spob name="Minerva Station">
-  <tech_add>Goddard Merchantman</tech_add>
- </spob>
  <spob name="Nexus Shipyards HQ">
   <tech_add>Hawking Singularity</tech_add>
  </spob>
