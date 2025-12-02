@@ -1,0 +1,12 @@
+identifier = "TXVariants"
+name = "More Variants"
+author = "ThrosturX"
+version = "0.13.1"
+abstract = "Introduces more variants"
+description = "Introduces a couple of extra variants, that haven't been integrated into the base game."
+license = "CC0"
+release_status = "development"
+tags = [ "casual", ]
+image_url = "https://github.com/ThrosturX/naev-variants/blob/main/gfx/ship3d/Kestrel/luxury_kestrel_diffuse.webp?raw=true"
+naev_version = ">= 0.13.0"
+source = { git = "https://github.com/ThrosturX/naev-variants.git" }

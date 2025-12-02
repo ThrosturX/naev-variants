@@ -210,32 +210,32 @@
     {
       "name": "kestrel_emit",
       "mimeType": "image/webp",
-      "uri": "kestrel_emit.webp"
+      "uri": "kestrel_emit"
     },
     {
       "name": "kestrel_normal",
       "mimeType": "image/webp",
-      "uri": "kestrel_normal.webp"
+      "uri": "kestrel_normal"
     },
     {
       "name": "kestrel_diffuse",
       "mimeType": "image/webp",
-      "uri": "luxury_kestrel_diffuse.webp"
+      "uri": "luxury_kestrel_diffuse"
     },
     {
       "name": "kestrel_metallic-kestrel_roughness",
       "mimeType": "image/webp",
-      "uri": "kestrel_metallic-kestrel_roughness.webp"
+      "uri": "kestrel_metallic-kestrel_roughness"
     },
     {
       "name": "gradient_cyan2",
       "mimeType": "image/webp",
-      "uri": "../textures/gradient_cyan2.webp"
+      "uri": "../textures/gradient_cyan2"
     },
     {
       "name": "gradient_cyan",
       "mimeType": "image/webp",
-      "uri": "../textures/gradient_cyan.webp"
+      "uri": "../textures/gradient_cyan"
     }
   ],
   "buffers": [

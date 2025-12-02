@@ -188,42 +188,42 @@
     {
       "name": "hawkingGLO",
       "mimeType": "image/webp",
-      "uri": "hawkingGLO.webp"
+      "uri": "hawkingGLO"
     },
     {
       "name": "hawkingNORM",
       "mimeType": "image/webp",
-      "uri": "hawkingNORM.webp"
+      "uri": "hawkingNORM"
     },
     {
       "name": "AO_bake",
       "mimeType": "image/webp",
-      "uri": "AO_bake.webp"
+      "uri": "AO_bake"
     },
     {
       "name": "hawking",
       "mimeType": "image/webp",
-      "uri": "hawking_juggernaut.webp"
+      "uri": "hawking_juggernaut"
     },
     {
       "name": "GLO_bake",
       "mimeType": "image/webp",
-      "uri": "GLO_bake.webp"
+      "uri": "GLO_bake"
     },
     {
       "name": "hawkingPPL",
       "mimeType": "image/webp",
-      "uri": "hawkingPPL.webp"
+      "uri": "hawkingPPL"
     },
     {
       "name": "gradient_cyan2",
       "mimeType": "image/webp",
-      "uri": "../textures/gradient_cyan2.webp"
+      "uri": "../textures/gradient_cyan2"
     },
     {
       "name": "gradient_cyan",
       "mimeType": "image/webp",
-      "uri": "../textures/gradient_cyan.webp"
+      "uri": "../textures/gradient_cyan"
     }
   ],
   "buffers": [

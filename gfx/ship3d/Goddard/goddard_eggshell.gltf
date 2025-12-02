@@ -194,22 +194,22 @@
     {
       "name": "AO_bake",
       "mimeType": "image/webp",
-      "uri": "AO_bake.webp"
+      "uri": "AO_bake"
     },
     {
       "name": "goddard",
       "mimeType": "image/webp",
-      "uri": "goddard_eggshell.webp"
+      "uri": "goddard_eggshell"
     },
     {
       "name": "GLO_bake",
       "mimeType": "image/webp",
-      "uri": "GLO_bake.webp"
+      "uri": "GLO_bake"
     },
     {
       "name": "gradient_blue_orange",
       "mimeType": "image/webp",
-      "uri": "../textures/gradient_blue_orange.webp"
+      "uri": "../textures/gradient_blue_orange"
     }
   ],
   "buffers": [
